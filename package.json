@@ -1,6 +1,6 @@
 {
   "name": "@fullstackcraftllc/syntax-spy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simultaneously detect and syntax check any code snippet with ease.",
   "type": "module",
   "main": "index.js",
@@ -9,9 +9,9 @@
     "test": "jest",
     "example": "tsc && node dist/example.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["TypeScript", "CodeVideo", "AST"],
+  "author": "Chris Frewin",
+  "license": "MIT",
   "dependencies": {
     "@vscode/vscode-languagedetection": "^1.0.22",
     "ts-morph": "^21.0.1"
