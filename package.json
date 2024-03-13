@@ -1,6 +1,6 @@
 {
   "name": "@fullstackcraftllc/syntax-spy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simultaneously detect and syntax check any code snippet with ease.",
   "type": "module",
   "main": "index.js",
