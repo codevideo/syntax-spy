@@ -48,7 +48,4 @@ main();
 
 ## TODOs
 
-- Write unit tests for a variety of programming languages and syntax errors.
-- Check rollup config, build, and publish to NPM.
-- Add this tool to the [codevideo.io](https://cdoevideo.io) website as a tool within the CodeVideo cohort.
-- Actually use in `codevideo-ai` repo.
+- Add support for more programming languages.
