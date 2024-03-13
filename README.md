@@ -15,13 +15,13 @@ Simultaneously detect and syntax check any code snippet with ease.
 ## Installation
 
 ```bash
-npm install syntax-spy
+npm install @fullstackcraftllc/syntax-spy
 ```
 
 ## Usage
 
 ```typescript
-import { identifyAndValidateCode } from 'syntax-spy';
+import { identifyAndValidateCode } from '@fullstackcraftllc/syntax-spy';
 
 const code = `
 // here's a comment in TypeScript
