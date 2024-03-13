@@ -2,7 +2,8 @@
 
 Simultaneously detect and syntax check any code snippet with ease.
 
-`syntax-spy` is a powerful TypeScript / JavaScript tool that combines the powers of [Linguist](https://github.com/github/linguist), [linguist-js](https://github.com/wchargin/linguist-js), [ts-morph](https://github.com/dsherret/ts-morph), and a variety of other AST and linting tools to simultaneously identify and syntax check any snippet of code.
+`syntax-spy` is a powerful TypeScript / JavaScript tool that combines the powers of [vscode-languagedetection
+](https://github.com/microsoft/vscode-languagedetection), [ts-morph](https://github.com/dsherret/ts-morph), and a variety of other AST and linting tools to simultaneously identify and syntax check any snippet of code.
 
 ## Features
 
