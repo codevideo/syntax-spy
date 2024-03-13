@@ -24,8 +24,11 @@ npm install syntax-spy
 import { identifyAndValidateCode } from 'syntax-spy';
 
 const code = `
-function add(a, b) {
-    return a + b;
+// here's a comment in TypeScript
+const testFunction = (someParam: string) => {
+    const myStringArray: string[] = ['Hello', 'World'];
+    console.log(someParam); 
+    blahblahsomesyntaxerror
 }
 `;
 
