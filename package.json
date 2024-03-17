@@ -1,9 +1,9 @@
 {
   "name": "@fullstackcraftllc/syntax-spy",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simultaneously detect and syntax check any code snippet with ease.",
   "type": "module",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c ./rollup.config.js",
     "test": "jest",
