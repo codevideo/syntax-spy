@@ -7,7 +7,7 @@ export default [
     input: "src/index.ts",
     output: {
       file: "dist/index.js",
-      format: "cjs",
+      format: "es",
     },
     plugins: [typescript()],
     external: ["ts-morph", "@vscode/vscode-languagedetection", "vm"]
